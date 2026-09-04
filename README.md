@@ -57,4 +57,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3903-smallest-stable-index-i) |
+## String
+|  |
+| ------- |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/adarsh-build/Adarsh-projects/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 <!---LeetCode Topics End-->
