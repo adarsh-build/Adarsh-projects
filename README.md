@@ -15,6 +15,7 @@ I will keep updating this repository as I solve more problems.
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
 | [0941-valid-mountain-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0941-valid-mountain-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -86,4 +87,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [4020-elevator-requests-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/4020-elevator-requests-i) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
