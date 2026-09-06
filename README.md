@@ -24,6 +24,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3941-password-strength](https://github.com/adarsh-build/Adarsh-projects/tree/master/3941-password-strength) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/adarsh-build/Adarsh-projects/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [3941-password-strength](https://github.com/adarsh-build/Adarsh-projects/tree/master/3941-password-strength) |
 ## Sorting
 |  |
 | ------- |
