@@ -15,6 +15,7 @@ I will keep updating this repository as I solve more problems.
 ## Array
 |  |
 | ------- |
+| [0941-valid-mountain-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0941-valid-mountain-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/adarsh-build/Adarsh-projects/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3903-smallest-stable-index-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3903-smallest-stable-index-i) |
