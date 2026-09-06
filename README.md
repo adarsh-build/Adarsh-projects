@@ -20,6 +20,7 @@ I will keep updating this repository as I solve more problems.
 | [3903-smallest-stable-index-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/3904-smallest-stable-index-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarsh-build/Adarsh-projects/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4020-elevator-requests-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +76,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarsh-build/Adarsh-projects/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+## Simulation
+|  |
+| ------- |
+| [4020-elevator-requests-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/4020-elevator-requests-i) |
 <!---LeetCode Topics End-->
