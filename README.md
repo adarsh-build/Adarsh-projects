@@ -38,6 +38,7 @@ I will keep updating this repository as I solve more problems.
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adarsh-build/Adarsh-projects/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/adarsh-build/Adarsh-projects/tree/master/3870-count-commas-in-range) |
 ## Number Theory
 |  |
 | ------- |
