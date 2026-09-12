@@ -128,4 +128,20 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-build/Adarsh-projects/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-build/Adarsh-projects/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-build/Adarsh-projects/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-build/Adarsh-projects/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
