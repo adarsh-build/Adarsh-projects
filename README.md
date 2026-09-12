@@ -23,6 +23,7 @@ I will keep updating this repository as I solve more problems.
 | [3467-transform-array-by-parity](https://github.com/adarsh-build/Adarsh-projects/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarsh-build/Adarsh-projects/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/adarsh-build/Adarsh-projects/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/adarsh-build/Adarsh-projects/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/adarsh-build/Adarsh-projects/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -47,6 +48,7 @@ I will keep updating this repository as I solve more problems.
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3492-maximum-containers-on-a-ship](https://github.com/adarsh-build/Adarsh-projects/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarsh-build/Adarsh-projects/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adarsh-build/Adarsh-projects/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/adarsh-build/Adarsh-projects/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/3871-count-commas-in-range-ii) |
