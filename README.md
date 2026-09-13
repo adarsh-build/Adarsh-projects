@@ -39,6 +39,7 @@ I will keep updating this repository as I solve more problems.
 ## Hash Table
 |  |
 | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/adarsh-build/Adarsh-projects/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsh-build/Adarsh-projects/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
@@ -103,6 +104,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/adarsh-build/Adarsh-projects/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/adarsh-build/Adarsh-projects/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2942-find-words-containing-character](https://github.com/adarsh-build/Adarsh-projects/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3498-reverse-degree-of-a-string) |
