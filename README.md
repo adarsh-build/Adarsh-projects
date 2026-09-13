@@ -50,6 +50,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarsh-build/Adarsh-projects/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2469-convert-the-temperature](https://github.com/adarsh-build/Adarsh-projects/tree/master/2469-convert-the-temperature) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2769-find-the-maximum-achievable-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsh-build/Adarsh-projects/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
