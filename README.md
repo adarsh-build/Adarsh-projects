@@ -51,6 +51,7 @@ I will keep updating this repository as I solve more problems.
 | [2769-find-the-maximum-achievable-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2769-find-the-maximum-achievable-number) |
 | [3492-maximum-containers-on-a-ship](https://github.com/adarsh-build/Adarsh-projects/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/adarsh-build/Adarsh-projects/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarsh-build/Adarsh-projects/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adarsh-build/Adarsh-projects/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/adarsh-build/Adarsh-projects/tree/master/3870-count-commas-in-range) |
