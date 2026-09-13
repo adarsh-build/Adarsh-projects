@@ -104,6 +104,7 @@ I will keep updating this repository as I solve more problems.
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/adarsh-build/Adarsh-projects/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [2942-find-words-containing-character](https://github.com/adarsh-build/Adarsh-projects/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/adarsh-build/Adarsh-projects/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3582-generate-tag-for-video-caption](https://github.com/adarsh-build/Adarsh-projects/tree/master/3582-generate-tag-for-video-caption) |
