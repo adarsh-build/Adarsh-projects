@@ -21,6 +21,7 @@ I will keep updating this repository as I solve more problems.
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarsh-build/Adarsh-projects/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsh-build/Adarsh-projects/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3452-sum-of-good-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/adarsh-build/Adarsh-projects/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
@@ -37,6 +38,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsh-build/Adarsh-projects/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/adarsh-build/Adarsh-projects/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3803-count-residue-prefixes](https://github.com/adarsh-build/Adarsh-projects/tree/master/3803-count-residue-prefixes) |
@@ -49,6 +51,7 @@ I will keep updating this repository as I solve more problems.
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarsh-build/Adarsh-projects/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2769-find-the-maximum-achievable-number) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsh-build/Adarsh-projects/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3492-maximum-containers-on-a-ship](https://github.com/adarsh-build/Adarsh-projects/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/adarsh-build/Adarsh-projects/tree/master/3516-find-closest-person) |
