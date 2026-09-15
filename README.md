@@ -73,6 +73,7 @@ I will keep updating this repository as I solve more problems.
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adarsh-build/Adarsh-projects/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/adarsh-build/Adarsh-projects/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/3871-count-commas-in-range-ii) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/adarsh-build/Adarsh-projects/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Number Theory
 |  |
 | ------- |
@@ -124,6 +125,7 @@ I will keep updating this repository as I solve more problems.
 | [3803-count-residue-prefixes](https://github.com/adarsh-build/Adarsh-projects/tree/master/3803-count-residue-prefixes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3941-password-strength](https://github.com/adarsh-build/Adarsh-projects/tree/master/3941-password-strength) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/adarsh-build/Adarsh-projects/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sorting
 |  |
 | ------- |
