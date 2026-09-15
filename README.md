@@ -37,6 +37,7 @@ I will keep updating this repository as I solve more problems.
 | [3683-earliest-time-to-finish-one-task](https://github.com/adarsh-build/Adarsh-projects/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/adarsh-build/Adarsh-projects/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/adarsh-build/Adarsh-projects/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/adarsh-build/Adarsh-projects/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/3904-smallest-stable-index-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarsh-build/Adarsh-projects/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -194,4 +195,12 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/adarsh-build/Adarsh-projects/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/adarsh-build/Adarsh-projects/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
