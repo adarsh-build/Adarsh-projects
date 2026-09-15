@@ -27,6 +27,7 @@ I will keep updating this repository as I solve more problems.
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsh-build/Adarsh-projects/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3452-sum-of-good-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/adarsh-build/Adarsh-projects/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
@@ -187,4 +188,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 <!---LeetCode Topics End-->
