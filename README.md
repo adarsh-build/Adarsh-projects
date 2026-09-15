@@ -16,6 +16,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
 | [0941-valid-mountain-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0941-valid-mountain-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarsh-build/Adarsh-projects/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -41,6 +42,7 @@ I will keep updating this repository as I solve more problems.
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adarsh-build/Adarsh-projects/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsh-build/Adarsh-projects/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -119,6 +121,7 @@ I will keep updating this repository as I solve more problems.
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/adarsh-build/Adarsh-projects/tree/master/3467-transform-array-by-parity) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/adarsh-build/Adarsh-projects/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -141,6 +144,7 @@ I will keep updating this repository as I solve more problems.
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3467-transform-array-by-parity](https://github.com/adarsh-build/Adarsh-projects/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/adarsh-build/Adarsh-projects/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -177,4 +181,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-build/Adarsh-projects/tree/master/0104-maximum-depth-of-binary-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
