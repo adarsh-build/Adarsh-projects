@@ -1,0 +1,29 @@
+class Solution {
+public:
+    string frequencySort(string s) {
+        map<char, int> freq;
+
+        for (char c : s) {
+            freq[c]++;
+        }
+
+        vector<pair<char, int>> v;
+
+        for (auto p : freq) {
+            v.push_back({p.first, p.second});
+        }
+
+        sort(v.begin(), v.end(),
+             [](auto& a, auto& b) { return a.second > b.second; });
+
+        string ans = "";
+
+        for (auto p : v) {
+            for (int i = 0; i < p.second; i++) {
+                ans += p.first;
+            }
+        }
+
+        return ans;
+    }
+};
