@@ -112,6 +112,7 @@ I will keep updating this repository as I solve more problems.
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/adarsh-build/Adarsh-projects/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -172,6 +173,7 @@ I will keep updating this repository as I solve more problems.
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -217,4 +219,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
