@@ -56,6 +56,7 @@ I will keep updating this repository as I solve more problems.
 | [3668-restore-finishing-order](https://github.com/adarsh-build/Adarsh-projects/tree/master/3668-restore-finishing-order) |
 | [3803-count-residue-prefixes](https://github.com/adarsh-build/Adarsh-projects/tree/master/3803-count-residue-prefixes) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/adarsh-build/Adarsh-projects/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3889-mirror-frequency-distance](https://github.com/adarsh-build/Adarsh-projects/tree/master/3889-mirror-frequency-distance) |
 | [3941-password-strength](https://github.com/adarsh-build/Adarsh-projects/tree/master/3941-password-strength) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ I will keep updating this repository as I solve more problems.
 | [3707-equal-score-substrings](https://github.com/adarsh-build/Adarsh-projects/tree/master/3707-equal-score-substrings) |
 | [3803-count-residue-prefixes](https://github.com/adarsh-build/Adarsh-projects/tree/master/3803-count-residue-prefixes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3889-mirror-frequency-distance](https://github.com/adarsh-build/Adarsh-projects/tree/master/3889-mirror-frequency-distance) |
 | [3941-password-strength](https://github.com/adarsh-build/Adarsh-projects/tree/master/3941-password-strength) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/adarsh-build/Adarsh-projects/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sorting
@@ -162,6 +164,7 @@ I will keep updating this repository as I solve more problems.
 | [3467-transform-array-by-parity](https://github.com/adarsh-build/Adarsh-projects/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/adarsh-build/Adarsh-projects/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/adarsh-build/Adarsh-projects/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3889-mirror-frequency-distance](https://github.com/adarsh-build/Adarsh-projects/tree/master/3889-mirror-frequency-distance) |
 ## Greedy
 |  |
 | ------- |
