@@ -61,6 +61,7 @@ I will keep updating this repository as I solve more problems.
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/adarsh-build/Adarsh-projects/tree/master/0319-bulb-switcher) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarsh-build/Adarsh-projects/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2469-convert-the-temperature](https://github.com/adarsh-build/Adarsh-projects/tree/master/2469-convert-the-temperature) |
@@ -226,4 +227,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/adarsh-build/Adarsh-projects/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
