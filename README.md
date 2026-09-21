@@ -21,6 +21,7 @@ I will keep updating this repository as I solve more problems.
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
 | [0941-valid-mountain-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0941-valid-mountain-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarsh-build/Adarsh-projects/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/adarsh-build/Adarsh-projects/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2942-find-words-containing-character](https://github.com/adarsh-build/Adarsh-projects/tree/master/2942-find-words-containing-character) |
