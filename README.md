@@ -222,6 +222,7 @@ I will keep updating this repository as I solve more problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Graph Theory
 |  |
