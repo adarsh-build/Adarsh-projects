@@ -209,6 +209,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Tree
 |  |
 | ------- |
@@ -234,6 +235,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -264,4 +266,8 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
