@@ -75,6 +75,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/adarsh-build/Adarsh-projects/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/adarsh-build/Adarsh-projects/tree/master/0343-integer-break) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarsh-build/Adarsh-projects/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -277,6 +278,7 @@ I will keep updating this repository as I solve more problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/adarsh-build/Adarsh-projects/tree/master/0343-integer-break) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Longest Increasing Subsequence
 |  |
