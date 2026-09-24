@@ -18,6 +18,7 @@ I will keep updating this repository as I solve more problems.
 | [0073-set-matrix-zeroes](https://github.com/adarsh-build/Adarsh-projects/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
+| [0506-relative-ranks](https://github.com/adarsh-build/Adarsh-projects/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
 | [0941-valid-mountain-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0941-valid-mountain-array) |
@@ -157,6 +158,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/adarsh-build/Adarsh-projects/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -253,6 +255,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/adarsh-build/Adarsh-projects/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
