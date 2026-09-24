@@ -21,6 +21,7 @@ I will keep updating this repository as I solve more problems.
 | [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
 | [0506-relative-ranks](https://github.com/adarsh-build/Adarsh-projects/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
 | [0941-valid-mountain-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/adarsh-build/Adarsh-projects/tree/master/0944-delete-columns-to-make-sorted) |
@@ -59,6 +60,7 @@ I will keep updating this repository as I solve more problems.
 | [0073-set-matrix-zeroes](https://github.com/adarsh-build/Adarsh-projects/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adarsh-build/Adarsh-projects/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -136,6 +138,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/adarsh-build/Adarsh-projects/tree/master/0944-delete-columns-to-make-sorted) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/adarsh-build/Adarsh-projects/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -164,6 +167,7 @@ I will keep updating this repository as I solve more problems.
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/adarsh-build/Adarsh-projects/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -195,6 +199,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3467-transform-array-by-parity](https://github.com/adarsh-build/Adarsh-projects/tree/master/3467-transform-array-by-parity) |
@@ -262,10 +267,12 @@ I will keep updating this repository as I solve more problems.
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/adarsh-build/Adarsh-projects/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 ## Stack
 |  |
 | ------- |
@@ -292,4 +299,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/adarsh-build/Adarsh-projects/tree/master/0056-merge-intervals) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
