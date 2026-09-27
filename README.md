@@ -142,6 +142,7 @@ I will keep updating this repository as I solve more problems.
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/adarsh-build/Adarsh-projects/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/adarsh-build/Adarsh-projects/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1678-goal-parser-interpretation](https://github.com/adarsh-build/Adarsh-projects/tree/master/1678-goal-parser-interpretation) |
@@ -281,6 +282,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
+| [1021-remove-outermost-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/1021-remove-outermost-parentheses) |
 ## Brainteaser
 |  |
 | ------- |
@@ -312,4 +314,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarsh-build/Adarsh-projects/tree/master/0070-climbing-stairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
