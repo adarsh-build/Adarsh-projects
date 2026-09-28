@@ -165,6 +165,7 @@ I will keep updating this repository as I solve more problems.
 | [3889-mirror-frequency-distance](https://github.com/adarsh-build/Adarsh-projects/tree/master/3889-mirror-frequency-distance) |
 | [3941-password-strength](https://github.com/adarsh-build/Adarsh-projects/tree/master/3941-password-strength) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/adarsh-build/Adarsh-projects/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+| [4030-check-ascii-palindromic](https://github.com/adarsh-build/Adarsh-projects/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +188,7 @@ I will keep updating this repository as I solve more problems.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarsh-build/Adarsh-projects/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4030-check-ascii-palindromic](https://github.com/adarsh-build/Adarsh-projects/tree/master/4030-check-ascii-palindromic) |
 ## Simulation
 |  |
 | ------- |
@@ -260,6 +262,7 @@ I will keep updating this repository as I solve more problems.
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [4030-check-ascii-palindromic](https://github.com/adarsh-build/Adarsh-projects/tree/master/4030-check-ascii-palindromic) |
 ## Graph Theory
 |  |
 | ------- |
