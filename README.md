@@ -289,6 +289,7 @@ I will keep updating this repository as I solve more problems.
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/adarsh-build/Adarsh-projects/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -345,4 +346,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adarsh-build/Adarsh-projects/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/adarsh-build/Adarsh-projects/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
