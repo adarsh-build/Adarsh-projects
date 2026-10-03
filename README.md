@@ -90,6 +90,7 @@ I will keep updating this repository as I solve more problems.
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarsh-build/Adarsh-projects/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarsh-build/Adarsh-projects/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2469-convert-the-temperature](https://github.com/adarsh-build/Adarsh-projects/tree/master/2469-convert-the-temperature) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2769-find-the-maximum-achievable-number) |
@@ -345,6 +346,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adarsh-build/Adarsh-projects/tree/master/0023-merge-k-sorted-lists) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarsh-build/Adarsh-projects/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Merge Sort
 |  |
 | ------- |
