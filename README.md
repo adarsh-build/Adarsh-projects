@@ -22,6 +22,7 @@ I will keep updating this repository as I solve more problems.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0240-search-a-2d-matrix-ii) |
+| [0503-next-greater-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/adarsh-build/Adarsh-projects/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
@@ -305,6 +306,7 @@ I will keep updating this repository as I solve more problems.
 | [0032-longest-valid-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/adarsh-build/Adarsh-projects/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Brainteaser
@@ -368,4 +370,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/adarsh-build/Adarsh-projects/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
