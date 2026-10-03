@@ -88,6 +88,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarsh-build/Adarsh-projects/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/adarsh-build/Adarsh-projects/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/adarsh-build/Adarsh-projects/tree/master/0343-integer-break) |
 | [0400-nth-digit](https://github.com/adarsh-build/Adarsh-projects/tree/master/0400-nth-digit) |
@@ -312,6 +313,7 @@ I will keep updating this repository as I solve more problems.
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/adarsh-build/Adarsh-projects/tree/master/0319-bulb-switcher) |
 ## Sliding Window
 |  |
@@ -374,4 +376,20 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0503-next-greater-element-ii) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
