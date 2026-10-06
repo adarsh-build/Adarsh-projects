@@ -16,6 +16,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/adarsh-build/Adarsh-projects/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/adarsh-build/Adarsh-projects/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/adarsh-build/Adarsh-projects/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/adarsh-build/Adarsh-projects/tree/master/0073-set-matrix-zeroes) |
@@ -409,4 +410,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/0292-nim-game) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/adarsh-build/Adarsh-projects/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
