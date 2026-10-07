@@ -184,6 +184,7 @@ I will keep updating this repository as I solve more problems.
 | [3941-password-strength](https://github.com/adarsh-build/Adarsh-projects/tree/master/3941-password-strength) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/adarsh-build/Adarsh-projects/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4030-check-ascii-palindromic](https://github.com/adarsh-build/Adarsh-projects/tree/master/4030-check-ascii-palindromic) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/adarsh-build/Adarsh-projects/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -261,6 +262,7 @@ I will keep updating this repository as I solve more problems.
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/adarsh-build/Adarsh-projects/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/adarsh-build/Adarsh-projects/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -336,6 +338,7 @@ I will keep updating this repository as I solve more problems.
 | [0438-find-all-anagrams-in-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/adarsh-build/Adarsh-projects/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
