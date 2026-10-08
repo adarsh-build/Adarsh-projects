@@ -179,6 +179,7 @@ I will keep updating this repository as I solve more problems.
 | [3707-equal-score-substrings](https://github.com/adarsh-build/Adarsh-projects/tree/master/3707-equal-score-substrings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adarsh-build/Adarsh-projects/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3803-count-residue-prefixes](https://github.com/adarsh-build/Adarsh-projects/tree/master/3803-count-residue-prefixes) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3889-mirror-frequency-distance](https://github.com/adarsh-build/Adarsh-projects/tree/master/3889-mirror-frequency-distance) |
 | [3941-password-strength](https://github.com/adarsh-build/Adarsh-projects/tree/master/3941-password-strength) |
@@ -207,6 +208,7 @@ I will keep updating this repository as I solve more problems.
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarsh-build/Adarsh-projects/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4030-check-ascii-palindromic](https://github.com/adarsh-build/Adarsh-projects/tree/master/4030-check-ascii-palindromic) |
 ## Simulation
@@ -216,6 +218,7 @@ I will keep updating this repository as I solve more problems.
 | [1920-build-array-from-permutation](https://github.com/adarsh-build/Adarsh-projects/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/adarsh-build/Adarsh-projects/tree/master/3582-generate-tag-for-video-caption) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [4020-elevator-requests-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/4020-elevator-requests-i) |
 ## Binary Search
 |  |
