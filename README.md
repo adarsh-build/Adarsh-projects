@@ -165,6 +165,7 @@ I will keep updating this repository as I solve more problems.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/adarsh-build/Adarsh-projects/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1678-goal-parser-interpretation](https://github.com/adarsh-build/Adarsh-projects/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/adarsh-build/Adarsh-projects/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adarsh-build/Adarsh-projects/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -249,6 +250,7 @@ I will keep updating this repository as I solve more problems.
 | [0678-valid-parenthesis-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarsh-build/Adarsh-projects/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Geometry
 |  |
 | ------- |
@@ -330,6 +332,7 @@ I will keep updating this repository as I solve more problems.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarsh-build/Adarsh-projects/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -374,6 +377,7 @@ I will keep updating this repository as I solve more problems.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarsh-build/Adarsh-projects/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Divide and Conquer
 |  |
 | ------- |
