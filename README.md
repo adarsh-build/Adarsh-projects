@@ -224,6 +224,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0054-spiral-matrix](https://github.com/adarsh-build/Adarsh-projects/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/adarsh-build/Adarsh-projects/tree/master/1920-build-array-from-permutation) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/adarsh-build/Adarsh-projects/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/adarsh-build/Adarsh-projects/tree/master/3582-generate-tag-for-video-caption) |
@@ -398,6 +399,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adarsh-build/Adarsh-projects/tree/master/0023-merge-k-sorted-lists) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarsh-build/Adarsh-projects/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/adarsh-build/Adarsh-projects/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Merge Sort
 |  |
