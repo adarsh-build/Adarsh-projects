@@ -44,6 +44,7 @@ I will keep updating this repository as I solve more problems.
 | [2956-find-common-elements-between-two-arrays](https://github.com/adarsh-build/Adarsh-projects/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adarsh-build/Adarsh-projects/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsh-build/Adarsh-projects/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -79,6 +80,7 @@ I will keep updating this repository as I solve more problems.
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adarsh-build/Adarsh-projects/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/adarsh-build/Adarsh-projects/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsh-build/Adarsh-projects/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/adarsh-build/Adarsh-projects/tree/master/3541-find-most-frequent-vowel-and-consonant) |
