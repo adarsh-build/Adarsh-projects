@@ -103,6 +103,7 @@ I will keep updating this repository as I solve more problems.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
+| [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarsh-build/Adarsh-projects/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarsh-build/Adarsh-projects/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2396-strictly-palindromic-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2396-strictly-palindromic-number) |
@@ -125,6 +126,7 @@ I will keep updating this repository as I solve more problems.
 ## Number Theory
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Prime Factorization
@@ -134,6 +136,7 @@ I will keep updating this repository as I solve more problems.
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Primality Test
 |  |
@@ -142,6 +145,7 @@ I will keep updating this repository as I solve more problems.
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
@@ -243,6 +247,7 @@ I will keep updating this repository as I solve more problems.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarsh-build/Adarsh-projects/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/adarsh-build/Adarsh-projects/tree/master/0400-nth-digit) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
+| [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
@@ -443,4 +448,16 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/adarsh-build/Adarsh-projects/tree/master/0046-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
