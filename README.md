@@ -56,6 +56,7 @@ I will keep updating this repository as I solve more problems.
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarsh-build/Adarsh-projects/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/adarsh-build/Adarsh-projects/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/adarsh-build/Adarsh-projects/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarsh-build/Adarsh-projects/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -89,6 +90,7 @@ I will keep updating this repository as I solve more problems.
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsh-build/Adarsh-projects/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/adarsh-build/Adarsh-projects/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/adarsh-build/Adarsh-projects/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adarsh-build/Adarsh-projects/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3803-count-residue-prefixes](https://github.com/adarsh-build/Adarsh-projects/tree/master/3803-count-residue-prefixes) |
@@ -123,6 +125,7 @@ I will keep updating this repository as I solve more problems.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/adarsh-build/Adarsh-projects/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarsh-build/Adarsh-projects/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adarsh-build/Adarsh-projects/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/adarsh-build/Adarsh-projects/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/3871-count-commas-in-range-ii) |
@@ -133,6 +136,7 @@ I will keep updating this repository as I solve more problems.
 | [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -268,6 +272,7 @@ I will keep updating this repository as I solve more problems.
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3467-transform-array-by-parity](https://github.com/adarsh-build/Adarsh-projects/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/adarsh-build/Adarsh-projects/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/adarsh-build/Adarsh-projects/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3889-mirror-frequency-distance](https://github.com/adarsh-build/Adarsh-projects/tree/master/3889-mirror-frequency-distance) |
 ## Greedy
