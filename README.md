@@ -57,6 +57,7 @@ I will keep updating this repository as I solve more problems.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarsh-build/Adarsh-projects/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/adarsh-build/Adarsh-projects/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/adarsh-build/Adarsh-projects/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adarsh-build/Adarsh-projects/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/adarsh-build/Adarsh-projects/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/adarsh-build/Adarsh-projects/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/adarsh-build/Adarsh-projects/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -215,6 +216,7 @@ I will keep updating this repository as I solve more problems.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/adarsh-build/Adarsh-projects/tree/master/3467-transform-array-by-parity) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adarsh-build/Adarsh-projects/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/adarsh-build/Adarsh-projects/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Two Pointers
 |  |
@@ -271,6 +273,7 @@ I will keep updating this repository as I solve more problems.
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adarsh-build/Adarsh-projects/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
 |  |
 | ------- |
