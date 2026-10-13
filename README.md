@@ -293,6 +293,7 @@ I will keep updating this repository as I solve more problems.
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
+| [3827-count-monobit-integers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/adarsh-build/Adarsh-projects/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/adarsh-build/Adarsh-projects/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -322,6 +323,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3827-count-monobit-integers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [4030-check-ascii-palindromic](https://github.com/adarsh-build/Adarsh-projects/tree/master/4030-check-ascii-palindromic) |
 ## Graph Theory
