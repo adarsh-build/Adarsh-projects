@@ -75,6 +75,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0001-two-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adarsh-build/Adarsh-projects/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0166-fraction-to-recurring-decimal) |
 | [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/adarsh-build/Adarsh-projects/tree/master/0299-bulls-and-cows) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -102,6 +103,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarsh-build/Adarsh-projects/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0166-fraction-to-recurring-decimal) |
 | [0292-nim-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/adarsh-build/Adarsh-projects/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/adarsh-build/Adarsh-projects/tree/master/0343-integer-break) |
@@ -175,6 +177,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0097-interleaving-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0166-fraction-to-recurring-decimal) |
 | [0299-bulls-and-cows](https://github.com/adarsh-build/Adarsh-projects/tree/master/0299-bulls-and-cows) |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0438-find-all-anagrams-in-a-string) |
