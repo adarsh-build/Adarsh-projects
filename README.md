@@ -116,6 +116,7 @@ I will keep updating this repository as I solve more problems.
 | [0400-nth-digit](https://github.com/adarsh-build/Adarsh-projects/tree/master/0400-nth-digit) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
+| [0537-complex-number-multiplication](https://github.com/adarsh-build/Adarsh-projects/tree/master/0537-complex-number-multiplication) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
 | [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
@@ -192,6 +193,7 @@ I will keep updating this repository as I solve more problems.
 | [0438-find-all-anagrams-in-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/adarsh-build/Adarsh-projects/tree/master/0468-validate-ip-address) |
+| [0537-complex-number-multiplication](https://github.com/adarsh-build/Adarsh-projects/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarsh-build/Adarsh-projects/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -256,6 +258,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adarsh-build/Adarsh-projects/tree/master/0054-spiral-matrix) |
+| [0537-complex-number-multiplication](https://github.com/adarsh-build/Adarsh-projects/tree/master/0537-complex-number-multiplication) |
 | [1920-build-array-from-permutation](https://github.com/adarsh-build/Adarsh-projects/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adarsh-build/Adarsh-projects/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3069-distribute-elements-into-two-arrays-i) |
