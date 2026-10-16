@@ -93,6 +93,7 @@ I will keep updating this repository as I solve more problems.
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/adarsh-build/Adarsh-projects/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3146-permutation-difference-between-two-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsh-build/Adarsh-projects/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
@@ -210,6 +211,7 @@ I will keep updating this repository as I solve more problems.
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2942-find-words-containing-character](https://github.com/adarsh-build/Adarsh-projects/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/adarsh-build/Adarsh-projects/tree/master/3280-convert-date-to-binary) |
 | [3456-find-special-substring-of-length-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/3456-find-special-substring-of-length-k) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3498-reverse-degree-of-a-string) |
