@@ -27,6 +27,7 @@ I will keep updating this repository as I solve more problems.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/adarsh-build/Adarsh-projects/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
@@ -81,6 +82,7 @@ I will keep updating this repository as I solve more problems.
 | [0299-bulls-and-cows](https://github.com/adarsh-build/Adarsh-projects/tree/master/0299-bulls-and-cows) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -111,6 +113,7 @@ I will keep updating this repository as I solve more problems.
 | [0343-integer-break](https://github.com/adarsh-build/Adarsh-projects/tree/master/0343-integer-break) |
 | [0400-nth-digit](https://github.com/adarsh-build/Adarsh-projects/tree/master/0400-nth-digit) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
 | [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
@@ -170,6 +173,7 @@ I will keep updating this repository as I solve more problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3707-equal-score-substrings](https://github.com/adarsh-build/Adarsh-projects/tree/master/3707-equal-score-substrings) |
 | [3903-smallest-stable-index-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3903-smallest-stable-index-i) |
@@ -495,4 +499,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
