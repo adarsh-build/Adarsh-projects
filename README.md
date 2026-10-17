@@ -68,6 +68,7 @@ I will keep updating this repository as I solve more problems.
 | [3769-sort-integers-by-binary-reflection](https://github.com/adarsh-build/Adarsh-projects/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3833-count-dominant-indices](https://github.com/adarsh-build/Adarsh-projects/tree/master/3833-count-dominant-indices) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/adarsh-build/Adarsh-projects/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/adarsh-build/Adarsh-projects/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adarsh-build/Adarsh-projects/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3903-smallest-stable-index-i) |
@@ -144,6 +145,7 @@ I will keep updating this repository as I solve more problems.
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adarsh-build/Adarsh-projects/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/adarsh-build/Adarsh-projects/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/3871-count-commas-in-range-ii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/adarsh-build/Adarsh-projects/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Number Theory
 |  |
