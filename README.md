@@ -219,6 +219,7 @@ I will keep updating this repository as I solve more problems.
 | [3110-score-of-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/adarsh-build/Adarsh-projects/tree/master/3280-convert-date-to-binary) |
+| [3340-check-balanced-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3340-check-balanced-string) |
 | [3456-find-special-substring-of-length-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/3456-find-special-substring-of-length-k) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/adarsh-build/Adarsh-projects/tree/master/3541-find-most-frequent-vowel-and-consonant) |
