@@ -140,6 +140,7 @@ I will keep updating this repository as I solve more problems.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarsh-build/Adarsh-projects/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adarsh-build/Adarsh-projects/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adarsh-build/Adarsh-projects/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/adarsh-build/Adarsh-projects/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/3871-count-commas-in-range-ii) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/adarsh-build/Adarsh-projects/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -304,6 +305,7 @@ I will keep updating this repository as I solve more problems.
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adarsh-build/Adarsh-projects/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarsh-build/Adarsh-projects/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
 |  |
