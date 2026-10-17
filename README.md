@@ -44,6 +44,7 @@ I will keep updating this repository as I solve more problems.
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/adarsh-build/Adarsh-projects/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/adarsh-build/Adarsh-projects/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/adarsh-build/Adarsh-projects/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -351,6 +352,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/adarsh-build/Adarsh-projects/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3827-count-monobit-integers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
