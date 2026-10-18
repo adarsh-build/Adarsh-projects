@@ -49,6 +49,7 @@ I will keep updating this repository as I solve more problems.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/adarsh-build/Adarsh-projects/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/adarsh-build/Adarsh-projects/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2974-minimum-number-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -250,6 +251,7 @@ I will keep updating this repository as I solve more problems.
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/adarsh-build/Adarsh-projects/tree/master/3467-transform-array-by-parity) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -275,6 +277,7 @@ I will keep updating this repository as I solve more problems.
 | [1688-count-of-matches-in-tournament](https://github.com/adarsh-build/Adarsh-projects/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/adarsh-build/Adarsh-projects/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adarsh-build/Adarsh-projects/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2974-minimum-number-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/adarsh-build/Adarsh-projects/tree/master/3582-generate-tag-for-video-caption) |
@@ -385,6 +388,7 @@ I will keep updating this repository as I solve more problems.
 | [0506-relative-ranks](https://github.com/adarsh-build/Adarsh-projects/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
+| [2974-minimum-number-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
