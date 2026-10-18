@@ -53,6 +53,7 @@ I will keep updating this repository as I solve more problems.
 | [3162-find-the-number-of-good-pairs-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adarsh-build/Adarsh-projects/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3285-find-indices-of-stable-mountains](https://github.com/adarsh-build/Adarsh-projects/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsh-build/Adarsh-projects/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3452-sum-of-good-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3452-sum-of-good-numbers) |
