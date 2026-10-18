@@ -133,6 +133,7 @@ I will keep updating this repository as I solve more problems.
 | [1688-count-of-matches-in-tournament](https://github.com/adarsh-build/Adarsh-projects/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/adarsh-build/Adarsh-projects/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/adarsh-build/Adarsh-projects/tree/master/2485-find-the-pivot-integer) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -190,6 +191,7 @@ I will keep updating this repository as I solve more problems.
 | [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0525-contiguous-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2485-find-the-pivot-integer](https://github.com/adarsh-build/Adarsh-projects/tree/master/2485-find-the-pivot-integer) |
 | [3707-equal-score-substrings](https://github.com/adarsh-build/Adarsh-projects/tree/master/3707-equal-score-substrings) |
 | [3903-smallest-stable-index-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/3904-smallest-stable-index-ii) |
