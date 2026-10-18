@@ -35,6 +35,7 @@ I will keep updating this repository as I solve more problems.
 | [0941-valid-mountain-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/adarsh-build/Adarsh-projects/tree/master/0944-delete-columns-to-make-sorted) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarsh-build/Adarsh-projects/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1313-decompress-run-length-encoded-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adarsh-build/Adarsh-projects/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
