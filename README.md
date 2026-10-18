@@ -127,6 +127,7 @@ I will keep updating this repository as I solve more problems.
 | [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarsh-build/Adarsh-projects/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarsh-build/Adarsh-projects/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1688-count-of-matches-in-tournament](https://github.com/adarsh-build/Adarsh-projects/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/adarsh-build/Adarsh-projects/tree/master/2469-convert-the-temperature) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -269,6 +270,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0054-spiral-matrix](https://github.com/adarsh-build/Adarsh-projects/tree/master/0054-spiral-matrix) |
 | [0537-complex-number-multiplication](https://github.com/adarsh-build/Adarsh-projects/tree/master/0537-complex-number-multiplication) |
+| [1688-count-of-matches-in-tournament](https://github.com/adarsh-build/Adarsh-projects/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/adarsh-build/Adarsh-projects/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adarsh-build/Adarsh-projects/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3069-distribute-elements-into-two-arrays-i) |
