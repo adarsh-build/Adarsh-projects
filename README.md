@@ -23,6 +23,7 @@ I will keep updating this repository as I solve more problems.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0240-search-a-2d-matrix-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/adarsh-build/Adarsh-projects/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarsh-build/Adarsh-projects/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0503-next-greater-element-ii) |
@@ -316,6 +317,7 @@ I will keep updating this repository as I solve more problems.
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/adarsh-build/Adarsh-projects/tree/master/0334-increasing-triplet-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarsh-build/Adarsh-projects/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -436,6 +438,7 @@ I will keep updating this repository as I solve more problems.
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/adarsh-build/Adarsh-projects/tree/master/0334-increasing-triplet-subsequence) |
 | [0944-delete-columns-to-make-sorted](https://github.com/adarsh-build/Adarsh-projects/tree/master/0944-delete-columns-to-make-sorted) |
 ## Quicksort
 |  |
