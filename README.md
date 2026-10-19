@@ -126,6 +126,7 @@ I will keep updating this repository as I solve more problems.
 | [0343-integer-break](https://github.com/adarsh-build/Adarsh-projects/tree/master/0343-integer-break) |
 | [0400-nth-digit](https://github.com/adarsh-build/Adarsh-projects/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0445-add-two-numbers-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/adarsh-build/Adarsh-projects/tree/master/0537-complex-number-multiplication) |
@@ -415,6 +416,7 @@ I will keep updating this repository as I solve more problems.
 | [0032-longest-valid-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/adarsh-build/Adarsh-projects/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarsh-build/Adarsh-projects/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -478,6 +480,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adarsh-build/Adarsh-projects/tree/master/0023-merge-k-sorted-lists) |
+| [0445-add-two-numbers-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarsh-build/Adarsh-projects/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adarsh-build/Adarsh-projects/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
