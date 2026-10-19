@@ -45,6 +45,7 @@ I will keep updating this repository as I solve more problems.
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2596-check-knight-tour-configuration](https://github.com/adarsh-build/Adarsh-projects/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/adarsh-build/Adarsh-projects/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -284,6 +285,7 @@ I will keep updating this repository as I solve more problems.
 | [1688-count-of-matches-in-tournament](https://github.com/adarsh-build/Adarsh-projects/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/adarsh-build/Adarsh-projects/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adarsh-build/Adarsh-projects/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2596-check-knight-tour-configuration](https://github.com/adarsh-build/Adarsh-projects/tree/master/2596-check-knight-tour-configuration) |
 | [2974-minimum-number-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/3498-reverse-degree-of-a-string) |
@@ -355,10 +357,12 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-build/Adarsh-projects/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/adarsh-build/Adarsh-projects/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-build/Adarsh-projects/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/adarsh-build/Adarsh-projects/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -388,6 +392,7 @@ I will keep updating this repository as I solve more problems.
 | [0073-set-matrix-zeroes](https://github.com/adarsh-build/Adarsh-projects/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarsh-build/Adarsh-projects/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/adarsh-build/Adarsh-projects/tree/master/2596-check-knight-tour-configuration) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adarsh-build/Adarsh-projects/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
