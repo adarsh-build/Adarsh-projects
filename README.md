@@ -124,6 +124,7 @@ I will keep updating this repository as I solve more problems.
 | [0319-bulb-switcher](https://github.com/adarsh-build/Adarsh-projects/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/adarsh-build/Adarsh-projects/tree/master/0343-integer-break) |
 | [0400-nth-digit](https://github.com/adarsh-build/Adarsh-projects/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/adarsh-build/Adarsh-projects/tree/master/0537-complex-number-multiplication) |
@@ -205,6 +206,7 @@ I will keep updating this repository as I solve more problems.
 | [0166-fraction-to-recurring-decimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0166-fraction-to-recurring-decimal) |
 | [0299-bulls-and-cows](https://github.com/adarsh-build/Adarsh-projects/tree/master/0299-bulls-and-cows) |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/adarsh-build/Adarsh-projects/tree/master/0468-validate-ip-address) |
@@ -368,6 +370,7 @@ I will keep updating this repository as I solve more problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/adarsh-build/Adarsh-projects/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3314-construct-the-minimum-bitwise-array-i) |
