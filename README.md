@@ -39,6 +39,7 @@ I will keep updating this repository as I solve more problems.
 | [1313-decompress-run-length-encoded-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adarsh-build/Adarsh-projects/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1816-truncate-sentence](https://github.com/adarsh-build/Adarsh-projects/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/adarsh-build/Adarsh-projects/tree/master/1920-build-array-from-permutation) |
@@ -97,6 +98,7 @@ I will keep updating this repository as I solve more problems.
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adarsh-build/Adarsh-projects/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -318,6 +320,7 @@ I will keep updating this repository as I solve more problems.
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3467-transform-array-by-parity](https://github.com/adarsh-build/Adarsh-projects/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/adarsh-build/Adarsh-projects/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/3591-check-if-any-element-has-prime-frequency) |
