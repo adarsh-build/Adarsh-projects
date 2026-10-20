@@ -269,6 +269,7 @@ I will keep updating this repository as I solve more problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/0143-reorder-list) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2396-strictly-palindromic-number) |
@@ -337,6 +338,7 @@ I will keep updating this repository as I solve more problems.
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -414,6 +416,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/adarsh-build/Adarsh-projects/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0445-add-two-numbers-ii) |
@@ -480,6 +483,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adarsh-build/Adarsh-projects/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarsh-build/Adarsh-projects/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adarsh-build/Adarsh-projects/tree/master/2181-merge-nodes-in-between-zeros) |
