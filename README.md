@@ -213,6 +213,7 @@ I will keep updating this repository as I solve more problems.
 | [0227-basic-calculator-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0227-basic-calculator-ii) |
 | [0299-bulls-and-cows](https://github.com/adarsh-build/Adarsh-projects/tree/master/0299-bulls-and-cows) |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/adarsh-build/Adarsh-projects/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
@@ -332,6 +333,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/adarsh-build/Adarsh-projects/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/adarsh-build/Adarsh-projects/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarsh-build/Adarsh-projects/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -428,6 +430,7 @@ I will keep updating this repository as I solve more problems.
 | [0155-min-stack](https://github.com/adarsh-build/Adarsh-projects/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/adarsh-build/Adarsh-projects/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0678-valid-parenthesis-string) |
@@ -513,6 +516,7 @@ I will keep updating this repository as I solve more problems.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/adarsh-build/Adarsh-projects/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0503-next-greater-element-ii) |
 ## Minimax
 |  |
