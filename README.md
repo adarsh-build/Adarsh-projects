@@ -123,6 +123,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarsh-build/Adarsh-projects/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0166-fraction-to-recurring-decimal) |
+| [0227-basic-calculator-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0227-basic-calculator-ii) |
 | [0292-nim-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/adarsh-build/Adarsh-projects/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/adarsh-build/Adarsh-projects/tree/master/0343-integer-break) |
@@ -209,6 +210,7 @@ I will keep updating this repository as I solve more problems.
 | [0097-interleaving-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0166-fraction-to-recurring-decimal) |
+| [0227-basic-calculator-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0227-basic-calculator-ii) |
 | [0299-bulls-and-cows](https://github.com/adarsh-build/Adarsh-projects/tree/master/0299-bulls-and-cows) |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -424,6 +426,7 @@ I will keep updating this repository as I solve more problems.
 | [0032-longest-valid-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/adarsh-build/Adarsh-projects/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0503-next-greater-element-ii) |
