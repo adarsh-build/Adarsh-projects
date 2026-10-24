@@ -41,6 +41,7 @@ I will keep updating this repository as I solve more problems.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adarsh-build/Adarsh-projects/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/adarsh-build/Adarsh-projects/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1816-truncate-sentence](https://github.com/adarsh-build/Adarsh-projects/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/adarsh-build/Adarsh-projects/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -268,6 +269,7 @@ I will keep updating this repository as I solve more problems.
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/adarsh-build/Adarsh-projects/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/2974-minimum-number-game) |
@@ -343,6 +345,7 @@ I will keep updating this repository as I solve more problems.
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/adarsh-build/Adarsh-projects/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adarsh-build/Adarsh-projects/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarsh-build/Adarsh-projects/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
