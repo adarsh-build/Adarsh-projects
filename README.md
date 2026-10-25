@@ -33,6 +33,7 @@ I will keep updating this repository as I solve more problems.
 | [0560-subarray-sum-equals-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
+| [0845-longest-mountain-in-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0845-longest-mountain-in-array) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
 | [0941-valid-mountain-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/adarsh-build/Adarsh-projects/tree/master/0944-delete-columns-to-make-sorted) |
@@ -288,6 +289,7 @@ I will keep updating this repository as I solve more problems.
 | [0143-reorder-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/0165-compare-version-numbers) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
+| [0845-longest-mountain-in-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0845-longest-mountain-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -366,6 +368,7 @@ I will keep updating this repository as I solve more problems.
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0845-longest-mountain-in-array) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
@@ -472,6 +475,7 @@ I will keep updating this repository as I solve more problems.
 | [0097-interleaving-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0097-interleaving-string) |
 | [0343-integer-break](https://github.com/adarsh-build/Adarsh-projects/tree/master/0343-integer-break) |
 | [0678-valid-parenthesis-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0678-valid-parenthesis-string) |
+| [0845-longest-mountain-in-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0845-longest-mountain-in-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Longest Increasing Subsequence
 |  |
