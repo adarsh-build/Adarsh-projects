@@ -30,6 +30,7 @@ I will keep updating this repository as I solve more problems.
 | [0506-relative-ranks](https://github.com/adarsh-build/Adarsh-projects/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
@@ -96,6 +97,7 @@ I will keep updating this repository as I solve more problems.
 | [0451-sort-characters-by-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -200,6 +202,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/adarsh-build/Adarsh-projects/tree/master/2485-find-the-pivot-integer) |
 | [3707-equal-score-substrings](https://github.com/adarsh-build/Adarsh-projects/tree/master/3707-equal-score-substrings) |
