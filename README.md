@@ -136,6 +136,7 @@ I will keep updating this repository as I solve more problems.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/adarsh-build/Adarsh-projects/tree/master/0537-complex-number-multiplication) |
+| [0738-monotone-increasing-digits](https://github.com/adarsh-build/Adarsh-projects/tree/master/0738-monotone-increasing-digits) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [0908-smallest-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/0908-smallest-range-i) |
 | [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
@@ -344,6 +345,7 @@ I will keep updating this repository as I solve more problems.
 | [0334-increasing-triplet-subsequence](https://github.com/adarsh-build/Adarsh-projects/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/adarsh-build/Adarsh-projects/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0678-valid-parenthesis-string) |
+| [0738-monotone-increasing-digits](https://github.com/adarsh-build/Adarsh-projects/tree/master/0738-monotone-increasing-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarsh-build/Adarsh-projects/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adarsh-build/Adarsh-projects/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
