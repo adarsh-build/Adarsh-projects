@@ -43,6 +43,7 @@ I will keep updating this repository as I solve more problems.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adarsh-build/Adarsh-projects/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adarsh-build/Adarsh-projects/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adarsh-build/Adarsh-projects/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/adarsh-build/Adarsh-projects/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1816-truncate-sentence](https://github.com/adarsh-build/Adarsh-projects/tree/master/1816-truncate-sentence) |
@@ -275,6 +276,7 @@ I will keep updating this repository as I solve more problems.
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adarsh-build/Adarsh-projects/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/adarsh-build/Adarsh-projects/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
