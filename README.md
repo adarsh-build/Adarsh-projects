@@ -49,6 +49,7 @@ I will keep updating this repository as I solve more problems.
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/adarsh-build/Adarsh-projects/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1816-truncate-sentence](https://github.com/adarsh-build/Adarsh-projects/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/adarsh-build/Adarsh-projects/tree/master/1920-build-array-from-permutation) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -243,6 +244,7 @@ I will keep updating this repository as I solve more problems.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1816-truncate-sentence](https://github.com/adarsh-build/Adarsh-projects/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adarsh-build/Adarsh-projects/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2409-count-days-spent-together](https://github.com/adarsh-build/Adarsh-projects/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/adarsh-build/Adarsh-projects/tree/master/2942-find-words-containing-character) |
@@ -279,6 +281,7 @@ I will keep updating this repository as I solve more problems.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adarsh-build/Adarsh-projects/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/adarsh-build/Adarsh-projects/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/2974-minimum-number-game) |
@@ -437,6 +440,7 @@ I will keep updating this repository as I solve more problems.
 | [0506-relative-ranks](https://github.com/adarsh-build/Adarsh-projects/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2974-minimum-number-game](https://github.com/adarsh-build/Adarsh-projects/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
@@ -516,6 +520,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adarsh-build/Adarsh-projects/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0240-search-a-2d-matrix-ii) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -596,4 +601,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adarsh-build/Adarsh-projects/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
