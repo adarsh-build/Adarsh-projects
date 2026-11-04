@@ -45,6 +45,7 @@ I will keep updating this repository as I solve more problems.
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adarsh-build/Adarsh-projects/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adarsh-build/Adarsh-projects/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/adarsh-build/Adarsh-projects/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1816-truncate-sentence](https://github.com/adarsh-build/Adarsh-projects/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/adarsh-build/Adarsh-projects/tree/master/1920-build-array-from-permutation) |
@@ -308,6 +309,7 @@ I will keep updating this repository as I solve more problems.
 | [0537-complex-number-multiplication](https://github.com/adarsh-build/Adarsh-projects/tree/master/0537-complex-number-multiplication) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adarsh-build/Adarsh-projects/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/adarsh-build/Adarsh-projects/tree/master/1688-count-of-matches-in-tournament) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adarsh-build/Adarsh-projects/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/adarsh-build/Adarsh-projects/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adarsh-build/Adarsh-projects/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2596-check-knight-tour-configuration](https://github.com/adarsh-build/Adarsh-projects/tree/master/2596-check-knight-tour-configuration) |
@@ -459,6 +461,7 @@ I will keep updating this repository as I solve more problems.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adarsh-build/Adarsh-projects/tree/master/1441-build-an-array-with-stack-operations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adarsh-build/Adarsh-projects/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Brainteaser
 |  |
 | ------- |
@@ -589,4 +592,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0523-continuous-subarray-sum) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adarsh-build/Adarsh-projects/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
