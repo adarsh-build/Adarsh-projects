@@ -91,6 +91,7 @@ I will keep updating this repository as I solve more problems.
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarsh-build/Adarsh-projects/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4020-elevator-requests-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/4020-elevator-requests-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ I will keep updating this repository as I solve more problems.
 | [3889-mirror-frequency-distance](https://github.com/adarsh-build/Adarsh-projects/tree/master/3889-mirror-frequency-distance) |
 | [3941-password-strength](https://github.com/adarsh-build/Adarsh-projects/tree/master/3941-password-strength) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Math
 |  |
 | ------- |
