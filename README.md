@@ -40,6 +40,7 @@ I will keep updating this repository as I solve more problems.
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarsh-build/Adarsh-projects/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1313-decompress-run-length-encoded-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adarsh-build/Adarsh-projects/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adarsh-build/Adarsh-projects/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adarsh-build/Adarsh-projects/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -279,6 +280,7 @@ I will keep updating this repository as I solve more problems.
 | [0692-top-k-frequent-words](https://github.com/adarsh-build/Adarsh-projects/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/adarsh-build/Adarsh-projects/tree/master/0869-reordered-power-of-2) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adarsh-build/Adarsh-projects/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adarsh-build/Adarsh-projects/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/adarsh-build/Adarsh-projects/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -297,6 +299,7 @@ I will keep updating this repository as I solve more problems.
 | [0165-compare-version-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/0165-compare-version-numbers) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [0845-longest-mountain-in-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/0845-longest-mountain-in-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adarsh-build/Adarsh-projects/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -331,6 +334,7 @@ I will keep updating this repository as I solve more problems.
 | [0400-nth-digit](https://github.com/adarsh-build/Adarsh-projects/tree/master/0400-nth-digit) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [1201-ugly-number-iii](https://github.com/adarsh-build/Adarsh-projects/tree/master/1201-ugly-number-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adarsh-build/Adarsh-projects/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-build/Adarsh-projects/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsh-build/Adarsh-projects/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
