@@ -17,6 +17,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0001-two-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/adarsh-build/Adarsh-projects/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/adarsh-build/Adarsh-projects/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/adarsh-build/Adarsh-projects/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/adarsh-build/Adarsh-projects/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/adarsh-build/Adarsh-projects/tree/master/0073-set-matrix-zeroes) |
@@ -96,6 +97,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarsh-build/Adarsh-projects/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/adarsh-build/Adarsh-projects/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/adarsh-build/Adarsh-projects/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0166-fraction-to-recurring-decimal) |
 | [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
@@ -221,6 +223,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/adarsh-build/Adarsh-projects/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/adarsh-build/Adarsh-projects/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/adarsh-build/Adarsh-projects/tree/master/0166-fraction-to-recurring-decimal) |
@@ -272,6 +275,7 @@ I will keep updating this repository as I solve more problems.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/adarsh-build/Adarsh-projects/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/adarsh-build/Adarsh-projects/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/0147-insertion-sort-list) |
 | [0229-majority-element-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0229-majority-element-ii) |
