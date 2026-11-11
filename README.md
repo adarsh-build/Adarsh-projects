@@ -381,6 +381,7 @@ I will keep updating this repository as I solve more problems.
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/adarsh-build/Adarsh-projects/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
@@ -535,6 +536,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adarsh-build/Adarsh-projects/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/adarsh-build/Adarsh-projects/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/adarsh-build/Adarsh-projects/tree/master/0147-insertion-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/0445-add-two-numbers-ii) |
