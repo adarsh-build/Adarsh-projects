@@ -81,6 +81,7 @@ I will keep updating this repository as I solve more problems.
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/adarsh-build/Adarsh-projects/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/adarsh-build/Adarsh-projects/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/adarsh-build/Adarsh-projects/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adarsh-build/Adarsh-projects/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarsh-build/Adarsh-projects/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/adarsh-build/Adarsh-projects/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3833-count-dominant-indices](https://github.com/adarsh-build/Adarsh-projects/tree/master/3833-count-dominant-indices) |
@@ -427,6 +428,7 @@ I will keep updating this repository as I solve more problems.
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/adarsh-build/Adarsh-projects/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/adarsh-build/Adarsh-projects/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adarsh-build/Adarsh-projects/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3827-count-monobit-integers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [4030-check-ascii-palindromic](https://github.com/adarsh-build/Adarsh-projects/tree/master/4030-check-ascii-palindromic) |
