@@ -72,6 +72,7 @@ I will keep updating this repository as I solve more problems.
 | [3285-find-indices-of-stable-mountains](https://github.com/adarsh-build/Adarsh-projects/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsh-build/Adarsh-projects/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adarsh-build/Adarsh-projects/tree/master/3364-minimum-positive-sum-subarray) |
 | [3452-sum-of-good-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/adarsh-build/Adarsh-projects/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adarsh-build/Adarsh-projects/tree/master/3483-unique-3-digit-even-numbers) |
@@ -218,6 +219,7 @@ I will keep updating this repository as I solve more problems.
 | [0560-subarray-sum-equals-k](https://github.com/adarsh-build/Adarsh-projects/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/adarsh-build/Adarsh-projects/tree/master/2485-find-the-pivot-integer) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adarsh-build/Adarsh-projects/tree/master/3364-minimum-positive-sum-subarray) |
 | [3707-equal-score-substrings](https://github.com/adarsh-build/Adarsh-projects/tree/master/3707-equal-score-substrings) |
 | [3903-smallest-stable-index-i](https://github.com/adarsh-build/Adarsh-projects/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adarsh-build/Adarsh-projects/tree/master/3904-smallest-stable-index-ii) |
@@ -492,6 +494,7 @@ I will keep updating this repository as I solve more problems.
 | [0438-find-all-anagrams-in-a-string](https://github.com/adarsh-build/Adarsh-projects/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/adarsh-build/Adarsh-projects/tree/master/0658-find-k-closest-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsh-build/Adarsh-projects/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adarsh-build/Adarsh-projects/tree/master/3364-minimum-positive-sum-subarray) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/adarsh-build/Adarsh-projects/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Dynamic Programming
 |  |
